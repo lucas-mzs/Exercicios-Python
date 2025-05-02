@@ -1,1 +1,2 @@
-# Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+# Um professor quer sortear um dos seus quatro alunos para apagar o quadro. 
+# Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome escolhido.

@@ -1,3 +1,2 @@
-# Escreva um programa que pergunte a quantidade de km percorridos por um carro 
-# alugado e a quantidade de dias pelos quais ele foi alugado. 
-# Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por km rodado.
+# Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira. 
+# Exemplo: o número 6,127 tem a parte inteira 6.

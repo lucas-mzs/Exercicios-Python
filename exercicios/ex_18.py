@@ -1,2 +1,1 @@
-# Faça um programa que leia o comprimento do cateto oposto e do cateto 
-# adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+# Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.

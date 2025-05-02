@@ -1,2 +1,1 @@
-# O mesmo professor do exercício anterior quer sortear a ordem de apresentação de trabalhos dos alunos. 
-# Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+# Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.

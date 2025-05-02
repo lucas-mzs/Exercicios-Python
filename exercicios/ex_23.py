@@ -1,4 +1,1 @@
-# Crie um programa que leia o nome completo de uma pessoa e mostre:
-# (a) O nome com todas as letras maiúsculas e minúsculas.
-# (b) Quantas letras ao todo (sem considerar espaços).
-# (c) Quantas letras tem o primeiro nome.
+# Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
