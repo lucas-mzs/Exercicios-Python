@@ -1,0 +1,2 @@
+# Refaça o exercício 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será 
+# formado: todos os lados iguais é EQUILÁTERO; dois lados iguais é ISÓSCELES; todos os lados diferentes é ESCALENO.
