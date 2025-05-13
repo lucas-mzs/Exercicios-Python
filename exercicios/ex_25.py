@@ -1,1 +1,8 @@
-# Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA"no nome.
+# Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+nome_pessoa = input('Digite seu nome completo: ')
+
+if 'Silva' in nome_pessoa.lower():
+    print('Seu nome contém o sobrenome "Silva".')
+else:
+    print('Seu nome não contém o sobrenome "Silva".')
