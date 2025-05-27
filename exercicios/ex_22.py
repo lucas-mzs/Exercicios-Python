@@ -7,7 +7,7 @@ nome = input('Informe seu nome: ')
 
 print(f'Nome: {nome}')
 
-primeiro_nome = nome.split()
+primeiro_nome = nome.split()[0]
 nome = nome.upper().replace(' ', '')
 nmr = len(nome)
 nmrp = len(primeiro_nome)

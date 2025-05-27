@@ -2,7 +2,7 @@
 
 nome_pessoa = input('Digite seu nome completo: ')
 
-if 'Silva' in nome_pessoa.lower():
+if 'SILVA' in nome_pessoa.upper():
     print('Seu nome contém o sobrenome "Silva".')
 else:
     print('Seu nome não contém o sobrenome "Silva".')
