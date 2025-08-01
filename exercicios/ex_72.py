@@ -1,0 +1,1 @@
+# Mostre os 20 primeiros termos de uma PA (progressão aritmética).

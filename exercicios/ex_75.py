@@ -1,0 +1,1 @@
+# Converta um número decimal para binário sem usar bin().

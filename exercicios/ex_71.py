@@ -1,0 +1,1 @@
+# Leia um número e mostre o seu fatorial.

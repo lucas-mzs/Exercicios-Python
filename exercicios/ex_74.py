@@ -1,0 +1,1 @@
+# Peça 3 números e mostre a soma apenas dos pares.

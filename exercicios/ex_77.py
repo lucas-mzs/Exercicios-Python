@@ -1,0 +1,1 @@
+# Peça um número e diga se é perfeito (soma dos divisores = número).

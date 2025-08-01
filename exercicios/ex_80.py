@@ -1,0 +1,1 @@
+# Leia dois números e calcule o MMC (mínimo múltiplo comum).

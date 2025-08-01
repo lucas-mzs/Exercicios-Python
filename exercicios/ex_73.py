@@ -1,0 +1,1 @@
+# Calcule os 10 primeiros termos de uma sequência de Fibonacci.

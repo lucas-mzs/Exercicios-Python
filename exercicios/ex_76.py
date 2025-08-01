@@ -1,0 +1,1 @@
+# Crie um jogo de adivinhação entre 1 e 100 (com dicas de maior ou menor).
