@@ -1,0 +1,1 @@
+# Peça 7 números ao usuário e calcule quantos são pares e quantos são ímpares.

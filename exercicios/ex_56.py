@@ -1,0 +1,1 @@
+# Imprima a tabuada de um número digitado pelo usuário.

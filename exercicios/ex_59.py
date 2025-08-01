@@ -1,0 +1,1 @@
+# Leia 6 notas e calcule a média, desconsiderando as menores que 4.

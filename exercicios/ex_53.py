@@ -1,0 +1,1 @@
+# Leia 10 números e conte quantos são negativos.

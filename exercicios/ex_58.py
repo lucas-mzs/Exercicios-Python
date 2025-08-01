@@ -1,0 +1,1 @@
+# Conte quantos múltiplos de 3 entre 1 e 500 também são pares.

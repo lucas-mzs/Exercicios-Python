@@ -1,0 +1,1 @@
+# Mostre a soma dos quadrados dos 20 primeiros números naturais.
