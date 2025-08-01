@@ -1,0 +1,1 @@
+# Verifique se 3 números formam um triângulo e diga o tipo.

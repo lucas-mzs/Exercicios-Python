@@ -1,0 +1,1 @@
+# Valide a entrada de um número entre 0 e 10. Repita até o usuário acertar.

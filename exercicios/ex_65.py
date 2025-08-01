@@ -1,0 +1,1 @@
+# Leia um número de 1 a 7 e mostre o dia da semana correspondente.

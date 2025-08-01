@@ -1,0 +1,1 @@
+# Peça a idade e diga em qual faixa etária ela se encaixa (infantil, adolescente, adulto...).

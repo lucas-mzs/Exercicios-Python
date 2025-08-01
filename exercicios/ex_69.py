@@ -1,0 +1,1 @@
+# Solicite um número de 4 dígitos e mostre invertido (ex: 1234 → 4321).

@@ -1,0 +1,1 @@
+# Solicite 3 notas e diga se o aluno foi aprovado, reprovado ou está em recuperação.
