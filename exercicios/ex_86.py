@@ -1,0 +1,1 @@
+# Conte quantas vezes um número específico aparece em uma lista.

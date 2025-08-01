@@ -1,0 +1,1 @@
+# Faça uma lista com 5 palavras e exiba as que têm mais de 5 letras.

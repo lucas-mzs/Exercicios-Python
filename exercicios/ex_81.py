@@ -1,0 +1,1 @@
+# Peça 10 números e armazene em uma lista. Depois mostre a média.

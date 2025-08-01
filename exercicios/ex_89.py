@@ -1,0 +1,1 @@
+# Leia 5 notas e mostre a maior, a menor e a média com 2 casas decimais.

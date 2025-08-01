@@ -1,0 +1,1 @@
+# Armazene 5 nomes e verifique se um nome digitado está na lista.
