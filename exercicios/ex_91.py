@@ -1,0 +1,1 @@
+# Simule um menu interativo de operações até o usuário digitar “sair”.

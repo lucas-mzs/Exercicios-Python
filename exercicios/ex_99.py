@@ -1,0 +1,1 @@
+# Peça um número e mostre a soma de todos os ímpares até ele.

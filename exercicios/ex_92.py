@@ -1,0 +1,1 @@
+# Peça ao usuário para digitar números até que ele digite 0. Some todos.

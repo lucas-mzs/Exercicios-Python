@@ -1,0 +1,1 @@
+# Simule um caixa eletrônico: o usuário digita o valor e o programa mostra quantas cédulas de cada tipo serão entregues.

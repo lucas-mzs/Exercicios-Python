@@ -1,0 +1,1 @@
+# Calcule a média de várias notas enquanto o usuário desejar continuar.

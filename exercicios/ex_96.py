@@ -1,0 +1,1 @@
+# Solicite números e pare se um número negativo for digitado.

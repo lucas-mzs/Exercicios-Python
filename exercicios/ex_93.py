@@ -1,0 +1,1 @@
+# Solicite uma senha e repita até que a senha correta seja digitada.
