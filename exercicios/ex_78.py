@@ -2,47 +2,37 @@
 
 def calculadora():
     while True:
-        n1 = float(input('Digite um número: '))
-        n2 = float(input('Digite outro número: '))
-        operador = input('Digite um operador (+ - * /): ')
-
-        numeros_validos = None
-
         try:
-            n1
-            n2
-            numeros_validos = True
+            n1 = float(input('Digite um número: '))
+            n2 = float(input('Digite outro número: '))
         except:
-            numeros_validos = None
+            print('Entrada inválida! Digite apenas números.')
 
-        if numeros_validos is None:
-            print('Um ou ambos os números são inválidos.')
-            continue
+        operador = input('Digite um operador (+ - * /): ')
 
         operadores_permitidos = ' + - * / '
 
         if operador not in operadores_permitidos:
             print('Operador inválido.')
             continue
-            
-        if len(operador) > 1:
-            print('Digite apenas um operador.')
-            continue
 
         print('Realizando sua conta. Confira abaixo:')
 
         if operador == '+':
-            print(f'{n1} + {n2}: {n1 + n2}')
+            print(f'{n1} + {n2} = {n1 + n2}')
         elif operador == '-':
-            print(f'{n1} - {n2}: {n1 - n2}')
+            print(f'{n1} - {n2} = {n1 - n2}')
         elif operador == '*':
-            print(f'{n1} * {n2}: {n1 * n2}')
-        else:
-            print(f'{n1} / {n2}: {n1 / n2}')
+            print(f'{n1} * {n2} = {n1 * n2}')
+        elif operador == '/':
+            if n2 == 0:
+                print('Erro! Não é possível dividir por zero.')
+            else:
+                print(f'{n1} / {n2} = {n1 / n2}')
         
         sair = input('Quer sair? [s]im: ').lower().startswith('s')
 
-        if sair is True:
+        if sair:
             break
 
 calculadora()
